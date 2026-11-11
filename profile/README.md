@@ -1,8 +1,8 @@
 # DeepReaper
 
-**Finds what's dead in your stack and reaps it.**
+**Reap the free internet.**
 
-DeepReaper hunts down what your stack no longer uses: stale code, idle cloud resources and orphaned data, and reaps it for good.
+DeepReaper digs up the free internet and reaps it for you: email accounts, free VPS, HTTP proxies, AI tokens and GPUs. Find it, claim it, keep it.
 
 - Website: https://deepreaper.com
 - X: [@deepreaper_ai](https://x.com/deepreaper_ai)
